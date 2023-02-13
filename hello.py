@@ -1,7 +1,8 @@
-n = int(input("enter number : "))
-if n > 0:
-    print("number is positve")
-elif n < 0:
-    print("number is negative")
-else:
-    print("number is zero")
+name = set()
+name.add(1)
+name.add("Mohamed")
+name.add("Mohamed")
+
+
+
+print(name)
